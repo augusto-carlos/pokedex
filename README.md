@@ -1,18 +1,18 @@
 <h1 align="center">Pokedex</h1>
 
-<h3 align="center" id="about">App para buscar pokémons</h3>
+<h3 align="center" id="about">a beautiful app to list pokemons</h3>
 
-<h4 align="center"> 
+<p align="center"> 
 	(still developing...  🚧)
-</h4>
+</p>
 
 <h1 align="center">
-  <img alt="inSound" title="#inSound" src="./screenshots/img1.png" width=400 style="margin:5px"/>
-  <img alt="inSound" title="#inSound" src="./screenshots/img2.png" width=400 style="margin:5px"/>
-  <img alt="inSound" title="#inSound" src="./screenshots/img3.png" width=400 style="margin:5px"/>
-  <img alt="inSound" title="#inSound" src="./screenshots/img4.png" width=400 style="margin:5px"/>
-  <img alt="inSound" title="#inSound" src="./screenshots/img5.png" width=400 style="margin:5px"/>
-  <img alt="inSound" title="#inSound" src="./screenshots/img6.png" width=400 style="margin:5px"/>
+  <img alt="pokedex" title="#pokedex" src="./screenshots/home.png" width=400 style="margin:5px"/>
+  <img alt="pokedex" title="#pokedex" src="./screenshots/sort.png" width=400 style="margin:5px"/>
+  <img alt="pokedex" title="#pokedex" src="./screenshots/filters-scrolled.png" width=400 style="margin:5px"/>
+  <img alt="pokedex" title="#pokedex" src="./screenshots/generation.png" width=400 style="margin:5px"/>
+  <img alt="pokedex" title="#pokedex" src="./screenshots/profile2-about.png" width=400 style="margin:5px"/>
+  <img alt="pokedex" title="#pokedex" src="./screenshots/profile2-evolution.png" width=400 style="margin:5px"/>
 </h1>
 
 ### Table of content
@@ -31,7 +31,7 @@
 ### Features
 
 - [x] Basic tamplate
-- [ ] Fetch Pokémons from APi
+- [ ] Fetch Pokémons from API
 - [ ] Sort Pokémon list
 
 ### Requirements
@@ -43,10 +43,10 @@ Before you start, you need to install the following tools:
 
 ```bash
  # Clone this repo
-$ git clone <https://github.com/augusto-carlos/insound>
+$ git clone <https://github.com/augusto-carlos/pokedex>
 
 # Change directory to the repository folder using terminal/cmd
-$ cd insound
+$ cd pokedex
 
 # Run the app with flutter
 $ flutter run
@@ -57,4 +57,4 @@ $ flutter run
 The following tools was used to build this project:
 
 - [Flutter](https://flutter.dev/)
-- [Father Icons for flutter](https://pub.dev/packages?q=father_icon)
+- [Flutter SVG package](https://pub.dev/packages?q=flutter_svg)
