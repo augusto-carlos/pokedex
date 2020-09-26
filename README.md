@@ -15,6 +15,22 @@
   <img alt="pokedex" title="#pokedex" src="./screenshots/profile2-evolution.png" width=220 style="margin:18px"/>
 </h1>
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/augusto-carlos/pokedex">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/augusto-carlos/pokedex">
+  
+  <a href="https://github.com/augusto-carlos/pokedex/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/augusto-carlos/pokedex">
+  </a>
+
+  <a href="https://github.com/augusto-carlos/pokedex/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/augusto-carlos/pokedex">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
 ### Table of content
 
 <!--ts-->
