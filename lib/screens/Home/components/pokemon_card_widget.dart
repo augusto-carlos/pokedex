@@ -28,7 +28,7 @@ class PokemonCard extends StatelessWidget {
             decoration: BoxDecoration(
               image: DecorationImage(
                 alignment: Alignment(1.0, -1.0),
-                image: AssetImage('assets/patterns/circle.png'),
+                image: AssetImage('assets/patterns/pokeball.png'),
                 fit: BoxFit.contain,
               ),
               color: pokemon.color,
@@ -64,7 +64,7 @@ class PokemonCard extends StatelessWidget {
           ),
           Positioned(
             top: -5,
-            right: 14,
+            right: 4,
             child: Hero(
               tag: '${pokemon.id}',
               child: Image.asset(

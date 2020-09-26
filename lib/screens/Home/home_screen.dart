@@ -13,7 +13,6 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
-    Size size = MediaQuery.of(context).size;
     return Scaffold(
       appBar: AppBar(
         actions: <Widget>[
@@ -35,6 +34,13 @@ class _HomeScreenState extends State<HomeScreen> {
         ],
       ),
       body: Container(
+        decoration: BoxDecoration(
+          image: DecorationImage(
+            alignment: Alignment(0, -2.5),
+            image: AssetImage('assets/patterns/pokeball-dark.png'),
+            fit: BoxFit.contain,
+          ),
+        ),
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: ConstPadding),
           child: Column(

@@ -32,6 +32,15 @@ class _TabsWidgetState extends State<TabsWidget> {
         widget.tabController.index = index;
       }),
       child: Container(
+        decoration: widget.tabController.index == index
+            ? BoxDecoration(
+                image: DecorationImage(
+                  alignment: Alignment(0, -1),
+                  image: AssetImage('assets/patterns/pokeball.png'),
+                  fit: BoxFit.cover,
+                ),
+              )
+            : BoxDecoration(),
         padding: EdgeInsets.all(ConstPadding / 2),
         child: Text(
           widget.tabNames[index],

@@ -13,7 +13,7 @@ class SearchInput extends StatelessWidget {
       margin: const EdgeInsets.only(bottom: ConstPadding / 2),
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(ConstPadding / 4),
-        color: Color(0x15444444),
+        color: Color(0xFFEEEEEE),
       ),
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: ConstPadding / 2),
