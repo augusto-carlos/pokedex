@@ -7,12 +7,12 @@
 </p>
 
 <h1 align="center">
-  <img alt="pokedex" title="#pokedex" src="./screenshots/home.png" width=220 style="margin:5px"/>
-  <img alt="pokedex" title="#pokedex" src="./screenshots/sort.png" width=220 style="margin:5px"/>
-  <img alt="pokedex" title="#pokedex" src="./screenshots/filters-scrolled.png" width=220 style="margin:5px"/>
-  <img alt="pokedex" title="#pokedex" src="./screenshots/generation.png" width=220 style="margin:5px"/>
-  <img alt="pokedex" title="#pokedex" src="./screenshots/profile2-about.png" width=220 style="margin:5px"/>
-  <img alt="pokedex" title="#pokedex" src="./screenshots/profile2-evolution.png" width=220 style="margin:5px"/>
+  <img alt="pokedex" title="#pokedex" src="./screenshots/home.png" width=220 style="margin:18px"/>
+  <img alt="pokedex" title="#pokedex" src="./screenshots/sort.png" width=220 style="margin:18px"/>
+  <img alt="pokedex" title="#pokedex" src="./screenshots/filters-scrolled.png" width=220 style="margin:18px"/>
+  <img alt="pokedex" title="#pokedex" src="./screenshots/generation.png" width=220 style="margin:18px"/>
+  <img alt="pokedex" title="#pokedex" src="./screenshots/profile2-about.png" width=220 style="margin:18px"/>
+  <img alt="pokedex" title="#pokedex" src="./screenshots/profile2-evolution.png" width=220 style="margin:18px"/>
 </h1>
 
 ### Table of content
